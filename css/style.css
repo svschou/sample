@@ -1,0 +1,24 @@
+body {
+	background-color: khaki;
+}
+
+li {
+	display:inline;
+}
+
+p {
+	color: purple;
+	background-color: yellowgreen;
+}
+
+img {
+	height: 150px;
+	width: 300px;
+	border-style: double;
+	border-color: pink;
+	border-width: 15px;
+}
+
+h1{
+	color: teal;
+}
